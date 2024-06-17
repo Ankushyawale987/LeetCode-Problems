@@ -7,6 +7,7 @@
 | [0075-sort-colors](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 # String
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 # Greedy
 |  |
 | ------- |
@@ -58,3 +60,7 @@
 | ------- |
 | [1137-height-checker](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/1217-relative-sort-array) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
