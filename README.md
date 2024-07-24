@@ -77,3 +77,22 @@
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/1138-grumpy-bookstore-owner) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+<!---LeetCode Topics End-->
