@@ -82,6 +82,7 @@
 ## Array
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -91,15 +92,18 @@
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0966-binary-subarrays-with-sum](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0966-binary-subarrays-with-sum](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 ## String
 |  |
 | ------- |
