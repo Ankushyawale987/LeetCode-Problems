@@ -94,6 +94,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -104,8 +105,10 @@
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
