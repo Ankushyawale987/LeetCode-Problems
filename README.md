@@ -83,6 +83,7 @@
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -93,6 +94,7 @@
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Prefix Sum
@@ -105,10 +107,15 @@
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+## Counting
+|  |
+| ------- |
+| [1034-subarrays-with-k-different-integers](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
