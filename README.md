@@ -82,6 +82,7 @@
 ## Array
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
@@ -118,4 +119,16 @@
 |  |
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
