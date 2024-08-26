@@ -114,11 +114,13 @@
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Counting
 |  |
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0455-assign-cookies) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Sorting
 |  |
 | ------- |
