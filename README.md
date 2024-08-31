@@ -83,6 +83,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0045-jump-game-ii) |
+| [0056-merge-intervals](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
@@ -137,6 +138,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
