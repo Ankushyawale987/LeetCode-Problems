@@ -149,9 +149,19 @@
 ## Stack
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
