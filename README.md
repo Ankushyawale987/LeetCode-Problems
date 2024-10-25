@@ -84,6 +84,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0056-merge-intervals) |
+| [0189-rotate-array](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
@@ -128,6 +129,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -168,4 +170,5 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
