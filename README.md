@@ -164,4 +164,8 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0937-online-stock-span) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
