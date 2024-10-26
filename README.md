@@ -83,6 +83,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0189-rotate-array](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0455-assign-cookies) |
@@ -147,6 +148,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 ## Stack
 |  |
@@ -171,4 +173,8 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0189-rotate-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
