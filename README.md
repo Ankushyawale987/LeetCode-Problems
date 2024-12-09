@@ -149,6 +149,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 ## Stack
 |  |
@@ -180,13 +181,16 @@
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
