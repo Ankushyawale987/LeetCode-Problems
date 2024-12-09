@@ -177,4 +177,16 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
