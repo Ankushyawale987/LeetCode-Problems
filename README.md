@@ -112,6 +112,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
@@ -130,6 +131,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0455-assign-cookies) |
 ## Greedy
@@ -206,4 +208,8 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
