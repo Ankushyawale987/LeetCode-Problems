@@ -131,6 +131,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
@@ -213,6 +214,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0328-odd-even-linked-list) |
