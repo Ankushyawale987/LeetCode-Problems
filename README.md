@@ -158,6 +158,7 @@
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0937-online-stock-span](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
@@ -189,6 +190,7 @@
 | [0101-symmetric-tree](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -196,6 +198,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -204,6 +207,7 @@
 | [0101-symmetric-tree](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
