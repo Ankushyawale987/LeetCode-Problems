@@ -120,6 +120,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -158,6 +159,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0937-online-stock-span](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0937-online-stock-span) |
