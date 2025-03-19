@@ -190,6 +190,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -207,6 +208,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -216,6 +218,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ankushyawale987/LeetCode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Linked List
 |  |
